@@ -1,3 +1,1 @@
-Testowe repozytorium
-Autor: Maja W
-Pierwsze repozytorium 
+WFS for project.
